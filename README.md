@@ -1,2 +1,1 @@
-# Zafiro
- Repositorio JaP - Desarrollo Web
+# ecommerce-capacitador
