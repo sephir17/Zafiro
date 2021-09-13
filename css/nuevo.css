@@ -1,0 +1,9 @@
+.isInvalid {
+    background-color: palevioletred;
+    border-color: red;
+    border-width: thick;
+}
+
+.perfilCircular{
+    border-radius: 50%; /*Hace la imagen circular*/
+}
